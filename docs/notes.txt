@@ -1,0 +1,23 @@
+// TYPESCRIPT //
+-- Additional features
+ - Typypes
+ - You will get next-gen javascript features which will be compiled to be be used by older browser.
+ - non js features like generics
+ - modern js features like meta programming i.e decorators
+ - highly configurable
+
+ // Core Types //
+ Numbers - 1,8.3,-2
+ String  - "hi", 'hi', `hi`
+ Boolean  - true, false
+ object - {name: "john"}
+ array - [1,2,3]
+ // array with two keys or value
+ // this are tuple with exactly two values one number and another a string
+ tuple - [1,"mukuna"]
+ // custom type
+ enum - enum {NEW, OLD}
+ unknown - you can store any value there
+
+NB::
+JS uses dynamic types at runtime while ts uses static types at development.
