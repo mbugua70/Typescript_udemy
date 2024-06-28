@@ -1,3 +1,3 @@
 console.log("Anayltic file");
 
-const name: String = "john";
+// const name: String = "john";
